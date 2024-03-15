@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\obj\\Debug\\net8.0\\compressed\\33yjwnykyd.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dashboard TMB Blazor.styles.css",
+      "PackagePath": "staticwebassets\\Dashboard TMB Blazor.styles.css"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\img\\LogoTMB.png",
+      "PackagePath": "staticwebassets\\img\\LogoTMB.png"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\C#\\Dashboard TMB\\Dashboard TMB Blazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dashboard TMB Blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dashboard TMB Blazor.props",
+      "PackagePath": "build\\Dashboard TMB Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dashboard TMB Blazor.props",
+      "PackagePath": "buildMultiTargeting\\Dashboard TMB Blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dashboard TMB Blazor.props",
+      "PackagePath": "buildTransitive\\Dashboard TMB Blazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
